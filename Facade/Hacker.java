@@ -9,7 +9,7 @@ public class Hacker {
         return ThreadLocalRandom.current().nextInt(0, 2) == 1;
     }
 
-    static public String[] HackСIAAccount() {
+    static public String[] BuyYuanCheap() {
         String[] result = new String[2];
 
         if (ThreadLocalRandom.current().nextInt(0, 2) == 1) {
@@ -21,11 +21,11 @@ public class Hacker {
         return null;
     }
 
-    static public Object DownloadDataFromCIADatabase(String login, String password) {
-        return "A lof of data";
+    static public Object СonvertСurrency(String login, String password) {
+        return "data";
     }
 
-    static public boolean SellDatOnDarknet(Object data, int bankAccount) {
+    static public boolean SellCurrency(Object data, int bankAccount) {
         try {
             if (Integer.toString(bankAccount).length() < 9) {
                 throw new ArithmeticException("!!!!!!! The bank account number is too short!!!!!!!!!!!!");
