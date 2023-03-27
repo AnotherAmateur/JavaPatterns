@@ -12,21 +12,21 @@ public class Main {
 // Фасад для библиотеки Hacker
 class Hacker {
     static public void MakeMoney(int bankAccount) {
-        String[] CIAAccount;
-        Object CIAData;
+        String[] BankAccount;
+        Object PersonalAccountData;
 
         do {
-            CIAAccount = MyLibrary.Hacker.HackСIAAccount();
-        } while (CIAAccount == null);
+            BankAccount = MyLibrary.Hacker.BuyYuanCheap();
+        } while (BankAccount == null);
 
         try {
-            CIAData = MyLibrary.Hacker.DownloadDataFromCIADatabase(CIAAccount[0], CIAAccount[1]);
+            PersonalAccountData = MyLibrary.Hacker.СonvertСurrency(BankAccount[0], BankAccount[1]);
         } catch (IndexOutOfBoundsException e) {
             System.out.println("C индексацией проблемка");
             return;
         }
 
-        MyLibrary.Hacker.SellDatOnDarknet(CIAData, bankAccount);
+        MyLibrary.Hacker.SellCurrency(PersonalAccountData, bankAccount);
         System.out.println("Your bank account has been replenished");
     }
 
