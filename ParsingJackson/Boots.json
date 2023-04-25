@@ -1,0 +1,157 @@
+[ {
+  "shoeId" : 0,
+  "soleType" : "ABS",
+  "shoeUpper" : {
+    "shoeUpperMat" : "PULaminate"
+  },
+  "authorInfo" : {
+    "firstName" : "Petya",
+    "lastName" : "Ivanov",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 1,
+  "soleType" : "ABS",
+  "shoeUpper" : {
+    "shoeUpperMat" : "PULaminate"
+  },
+  "authorInfo" : {
+    "firstName" : "Petya",
+    "lastName" : "Petrov",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 2,
+  "soleType" : "ABS",
+  "shoeUpper" : {
+    "shoeUpperMat" : "PULaminate"
+  },
+  "authorInfo" : {
+    "firstName" : "Ivan",
+    "lastName" : "Petrov",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 3,
+  "soleType" : "ABS",
+  "shoeUpper" : {
+    "shoeUpperMat" : "PULaminate"
+  },
+  "authorInfo" : {
+    "firstName" : "Petya",
+    "lastName" : "Kit",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 4,
+  "soleType" : "Camp",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Fabric"
+  },
+  "authorInfo" : {
+    "firstName" : "Ivan",
+    "lastName" : "Kit",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 5,
+  "soleType" : "Camp",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Fabric"
+  },
+  "authorInfo" : {
+    "firstName" : "Masha",
+    "lastName" : "Petrova",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 6,
+  "soleType" : "Camp",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Fabric"
+  },
+  "authorInfo" : {
+    "firstName" : "Nadya",
+    "lastName" : "Petrova",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 7,
+  "soleType" : "Camp",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Fabric"
+  },
+  "authorInfo" : {
+    "firstName" : "Masha",
+    "lastName" : "Ivanova",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 8,
+  "soleType" : "Cork",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Leather"
+  },
+  "authorInfo" : {
+    "firstName" : "Masha",
+    "lastName" : "Kit",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 9,
+  "soleType" : "Cork",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Leather"
+  },
+  "authorInfo" : {
+    "firstName" : "Nadya",
+    "lastName" : "Ivanova",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 10,
+  "soleType" : "Cork",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Leather"
+  },
+  "authorInfo" : {
+    "firstName" : "Nadya",
+    "lastName" : "Kit",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+}, {
+  "shoeId" : 11,
+  "soleType" : "Cork",
+  "shoeUpper" : {
+    "shoeUpperMat" : "Leather"
+  },
+  "authorInfo" : {
+    "firstName" : "Pasha",
+    "lastName" : "Ivanov",
+    "patronymic" : null,
+    "hiredDate" : "2023-04-25 23:31:50",
+    "firedDate" : null
+  }
+} ]
